@@ -1,4 +1,3 @@
-================================================================================
 Flexible lightweight framework based on "apps" concept.
 You will find some originality in apps inheritance opportunities and techniques.
 Here the apps can inherit almost everything from parent apps: 
@@ -55,4 +54,3 @@ class app extends \common\app {
 }
 ---
 You can control whether to use inheritance or not.
-================================================================================
